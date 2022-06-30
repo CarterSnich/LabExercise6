@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AddProductItemDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddUserDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditStockDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditUserDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InputCustomerCashDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadingDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagementForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MgmtLoginDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PosForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RestockDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StocksForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserLoginDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UsersMgmtForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

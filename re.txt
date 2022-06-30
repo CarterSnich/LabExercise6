@@ -1,0 +1,27 @@
+
+          RECEIPT OF SALE
+       POINT OF SALE SYSTEM
+          MACTHUR, LEYTE
+        TEL.: 475-5266-364
+        
+        
+        
+ Customer:                        
+ Cashier:                          
+===================================
+ 2000/12/31               01:25 PM 
+
+ QTY   ITEM                    AMT
+-----------------------------------
+ 1     ITEM NAME	             25.50 
+ 1     ITEM NAME	             25.50 
+ 1     ITEM NAME	             25.50 
+ 
+-----------------------------------
+ TOTAL                       76.50
+ CASH                        80.00
+ CHANGE                       3.50
+ 
+===================================
+
+            THANK YOU!
